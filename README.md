@@ -1,1 +1,3 @@
-# Tip-Calculator-React-
+# Tip-Calculator-React
+
+NPM INSTALL
